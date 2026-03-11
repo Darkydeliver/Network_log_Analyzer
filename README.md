@@ -16,6 +16,7 @@
 ```
 
 ### 🛡️ Professional Network Traffic Analysis & SOC Analyst Training Platform
+<img width="1830" height="741" alt="image" src="https://github.com/user-attachments/assets/f070e19c-6cc0-4b8a-93fb-0e8272c64d41" />
 
 <br>
 
