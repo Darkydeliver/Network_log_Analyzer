@@ -407,8 +407,6 @@ requests>=2.28
 
 <div align="center">
 
-Built with 🔥 by a **SISA Information Security** analyst
-
 *Learning threat hunting one packet at a time.*
 
 <br>
